@@ -4,9 +4,14 @@ A horror-themed Minecraft modpack full of jumpscares, creepy mobs, and haunted s
 
 ## 🔧 Installation
 
-1. Open CurseForge or Prism Launcher.  
-2. Click **Import Modpack** and select the ZIP file.  
+1. Open Modrinth App
+2. Click **Import Modpack** and select the file.  
 3. Make sure to give at least 4GB RAM.
+
+or
+
+1. Open the MRPACK file with Modrinth App.
+2. Start the download.
 
 ## 🎮 Recommended Settings
 
